@@ -6,7 +6,7 @@ Exploration and implementation of
 4) CDD (Component Driven Development)
 
 # Challenges
-[ ] Write simple component
+[ ] Write simple component<br>
 [ ] Preview the component in the storybook
 
 # Contributors
